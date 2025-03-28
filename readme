@@ -1,1 +1,29 @@
 diagrams/README.md
+# GoldCoreX: A Room-Temperature, Photon-Driven Quantum Architecture
+
+**Created by: Eric Ruecker** 
+**White Paper DOI: Coming soon (Zenodo or OSF.io)** 
+**Status: Public Research Prototype**
+
+GoldCoreX proposes a scalable quantum computing system using **gold atoms embedded in diamond**, controlled by **photonic waveguides** and powered by **standard voltage**—requiring no lasers or cryogenics.
+
+### Features:
+- Trillions of potential qubits per chip
+- Room-temperature operation
+- Photon-driven logic gates
+- Fabrication pathway using ion implantation
+- Peer-review-ready white paper included
+
+### Included:
+- `GoldCoreX_White_Paper_Eric_Ruecker_COVER_FINAL_2025.pdf`
+- Quantum qubit design diagrams
+- Architecture overview visuals
+
+### License:
+Content is published under the [Creative Commons BY-NC 4.0 License](https://creativecommons.org/licenses/by-nc/4.0/). 
+This means you may **read, cite, and share** the work, but **not use it commercially** without permission.
+
+---
+
+**This project was developed in collaboration with GPT-4, trained by OpenAI, and is based entirely on real physics and fabrication methods.** 
+Contact Eric for research inquiries or testing collaborations
