@@ -1,3 +1,45 @@
+# ⚛️ GoldCoreX Quantum Platform
+
+**Room-temperature. Photon-driven. Scalable to 100,000+ qubits.**
+
+---
+
+## 📣 OPEN CALL: Lab Partnership for Physical Validation
+
+**GoldCoreX is now seeking experimental lab partners to validate the architecture physically.**
+
+We have:
+- ✅ Simulated green-photon RX flips using gold atoms
+- ✅ Built a scalable entanglement bus (15-qubit GHZ)
+- ✅ Run **100,000-qubit simulations** over 10,000 steps without decoherence
+- ✅ Matched gold orbital behavior to photon energies (5d ↔ 6s @ ~2.40 eV)
+- ✅ Designed fabrication-ready product architecture and packaging
+
+All simulations and theory are now open source on [OSF](https://osf.io/yourproject) and this GitHub repo.
+
+---
+
+### 🔬 Seeking Labs With:
+
+- Experience in **gold atom implantation** in diamond or similar substrates
+- Tools for **photon-based state control** (green 2.4 eV pulses)
+- Ability to **measure spin/fluorescence state readout**
+- Interest in being first to validate a **room-temperature, no-decoherence quantum platform**
+
+We’re open to co-publication, IP co-authorship, and global collaboration.
+
+📧 **Contact: info@goldcorex.com  
+🌐 Or message via OSF or GitHub issues
+
+**Let’s build the quantum future. Together.**
+
+---
+
+
+
+
+
+
 diagrams/README.md
 # GoldCoreX: A Room-Temperature, Photon-Driven Quantum Architecture
 
