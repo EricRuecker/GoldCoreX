@@ -29,7 +29,7 @@ This means you may **read, cite, and share** the work, but **not use it commerci
 Contact Eric for research inquiries or testing collaborations
 readme
 
-![Patent Status](https://img.shields.io/badge/Patent-Application%20in%20Preparation-blue)
+![Patent Status]/Patent-Application Pending
 
 ---
 
@@ -90,16 +90,6 @@ This is the **first known demonstration** of a **100,000-qubit system** showing 
 - **Consistent performance from 5 to 100,000 qubits**
 - **Perfect vector length retention** without collapse
 - **Sustained behavior** even under harsh "earthquake-mode" noise conditions
-
----
-
-## 📂 Project Structure
-
-
-
-
-
-
 
 
 # 🚨 Milestone Achieved: GoldCoreX Simulation Validates Full Qubit Flip and Refresh at Room Temperature
